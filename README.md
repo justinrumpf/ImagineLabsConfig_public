@@ -1,11 +1,19 @@
 # Imagine Labs Config - Public API
 
-This repository contains the public configuration for the Imagine Labs application.
+This repository contains the public configuration and assets for the Imagine Labs application.
 
 ## Available Files
 
 - `story.json` - Main configuration file
 - `metadata.json` - Last update information
+
+## Asset Directories
+
+- `avatars/` - Avatar images for characters
+- `img/` - General images and UI elements
+- `places/` - Location images
+- `types/` - Story type images
+- `uploads/` - User uploaded images
 
 ## Usage
 
