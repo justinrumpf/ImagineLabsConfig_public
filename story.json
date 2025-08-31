@@ -2,12 +2,12 @@
   "version": "1.0.0",
   "lastUpdated": "2024-08-24",
   "stepTitles": {
-    "step1": "1Which story friend are you creating for?",
-    "step2": "11Who's in your story?",
-    "step3": "1In a world of endless tales, your story begins here...",
-    "step4": "1What sort of tale do you want to create?",
-    "step5": "1Every story has a lesson — what's yours?",
-    "createCharacter": "111Create Character"
+    "step1": "Which story friend are you creating for?",
+    "step2": "Who's in your story?",
+    "step3": "In a world of endless tales, your story begins here...",
+    "step4": "What sort of tale do you want to create?",
+    "step5": "Every story has a lesson — what's yours?",
+    "createCharacter": "Create Character"
   },
   "screenTexts": {
     "home": {
@@ -322,13 +322,13 @@
   },
   "storyThemes": [
     {
-      "category": "2How we Treat Others",
-      "description": "2Stories about kindness, friendship, and caring for the people around us.",
+      "category": "How we Treat Others",
+      "description": "Stories about kindness, friendship, and caring for the people around us.",
       "icon": "flask-green",
       "themes": [
         {
-          "theme": "2Friendshipx",
-          "description": "2Stories about forming bonds, being loyal to friends, sharing and playing together, resolving conflicts peacefully, and discovering that true friends accept us for who we are",
+          "theme": "Friendship",
+          "description": "Stories about forming bonds, being loyal to friends, sharing and playing together, resolving conflicts peacefully, and discovering that true friends accept us for who we are",
           "ageRange": {
             "min": 3,
             "max": 12
@@ -339,8 +339,8 @@
           }
         },
         {
-          "theme": "2Kindness",
-          "description": "2Tales of helping others without expecting rewards, showing compassion to those in need, using gentle words, including everyone in activities, and spreading joy through small acts of caring",
+          "theme": "Kindness",
+          "description": "Tales of helping others without expecting rewards, showing compassion to those in need, using gentle words, including everyone in activities, and spreading joy through small acts of caring",
           "ageRange": {
             "min": 3,
             "max": 10
@@ -351,8 +351,8 @@
           }
         },
         {
-          "theme": "2Respect",
-          "description": "2Adventures teaching the importance of treating others with dignity, listening to different viewpoints, honoring elders and authority figures, taking care of property, and valuing diversity",
+          "theme": "Respect",
+          "description": "Adventures teaching the importance of treating others with dignity, listening to different viewpoints, honoring elders and authority figures, taking care of property, and valuing diversity",
           "ageRange": {
             "min": 5,
             "max": 14
@@ -363,8 +363,8 @@
           }
         },
         {
-          "theme": "2Forgiveness",
-          "description": "2Heartwarming stories about letting go of anger, giving second chances, understanding that everyone makes mistakes, apologizing sincerely, and rebuilding trust after conflicts",
+          "theme": "Forgiveness",
+          "description": "Heartwarming stories about letting go of anger, giving second chances, understanding that everyone makes mistakes, apologizing sincerely, and rebuilding trust after conflicts",
           "ageRange": {
             "min": 6,
             "max": 14
@@ -375,8 +375,8 @@
           }
         },
         {
-          "theme": "2Generosity",
-          "description": "2Inspiring tales of sharing toys and treats, donating to those less fortunate, giving time to help others, discovering that giving brings more joy than receiving, and being generous with compliments",
+          "theme": "Generosity",
+          "description": "Inspiring tales of sharing toys and treats, donating to those less fortunate, giving time to help others, discovering that giving brings more joy than receiving, and being generous with compliments",
           "ageRange": {
             "min": 4,
             "max": 12
@@ -387,8 +387,8 @@
           }
         },
         {
-          "theme": "2Love",
-          "description": "2Warm stories celebrating family bonds, unconditional acceptance, expressing affection through actions and words, loving pets and nature, and understanding that love multiplies when shared",
+          "theme": "Love",
+          "description": "Warm stories celebrating family bonds, unconditional acceptance, expressing affection through actions and words, loving pets and nature, and understanding that love multiplies when shared",
           "ageRange": {
             "min": 3,
             "max": 10
@@ -401,13 +401,13 @@
       ]
     },
     {
-      "category": "2Being Brave & Strong",
-      "description": "2Stories about facing fears, staying strong, and doing the right thing even when it's hard.",
+      "category": "Being Brave & Strong",
+      "description": "Stories about facing fears, staying strong, and doing the right thing even when it's hard.",
       "icon": "flask-orange",
       "themes": [
         {
-          "theme": "2Braveryx",
-          "description": "2Exciting adventures about facing fears, standing up for what's right even when scared, trying new things, protecting others from harm, and discovering inner strength in challenging moments",
+          "theme": "Bravery",
+          "description": "Exciting adventures about facing fears, standing up for what's right even when scared, trying new things, protecting others from harm, and discovering inner strength in challenging moments",
           "ageRange": {
             "min": 5,
             "max": 14
@@ -418,8 +418,8 @@
           }
         },
         {
-          "theme": "2Courage",
-          "description": "2Bold tales of speaking truth when it's difficult, defending friends from bullies, admitting mistakes, asking for help when needed, and finding bravery in everyday situations",
+          "theme": "Courage",
+          "description": "Bold tales of speaking truth when it's difficult, defending friends from bullies, admitting mistakes, asking for help when needed, and finding bravery in everyday situations",
           "ageRange": {
             "min": 6,
             "max": 14
@@ -430,8 +430,8 @@
           }
         },
         {
-          "theme": "2Perseverance",
-          "description": "2Motivating stories about never giving up, practicing until mastery is achieved, overcoming obstacles with determination, learning from failures, and celebrating hard-earned victories",
+          "theme": "Perseverance",
+          "description": "Motivating stories about never giving up, practicing until mastery is achieved, overcoming obstacles with determination, learning from failures, and celebrating hard-earned victories",
           "ageRange": {
             "min": 6,
             "max": 16
@@ -442,8 +442,8 @@
           }
         },
         {
-          "theme": "2Responsibility",
-          "description": "2Important lessons about keeping promises, completing chores and homework, taking care of pets, owning up to mistakes, being dependable, and understanding how our actions affect others",
+          "theme": "Responsibility",
+          "description": "Important lessons about keeping promises, completing chores and homework, taking care of pets, owning up to mistakes, being dependable, and understanding how our actions affect others",
           "ageRange": {
             "min": 5,
             "max": 14
@@ -454,8 +454,8 @@
           }
         },
         {
-          "theme": "2Patience",
-          "description": "2Gentle stories teaching the value of waiting turns, staying calm in frustrating situations, understanding that good things take time, helping younger children, and finding peace in quiet moments",
+          "theme": "Patience",
+          "description": "Gentle stories teaching the value of waiting turns, staying calm in frustrating situations, understanding that good things take time, helping younger children, and finding peace in quiet moments",
           "ageRange": {
             "min": 4,
             "max": 12
@@ -468,13 +468,13 @@
       ]
     },
     {
-      "category": "2Teamwork & Honesty",
-      "description": "2Stories about honesty, fairness, and working together as a team.",
+      "category": "Teamwork & Honesty",
+      "description": "Stories about honesty, fairness, and working together as a team.",
       "icon": "flask-blue",
       "themes": [
         {
-          "theme": "2Honestyx",
-          "description": "2Meaningful stories about telling the truth even when it's hard, being trustworthy with secrets, admitting when wrong, keeping promises, and understanding that honesty builds strong relationships",
+          "theme": "Honesty",
+          "description": "Meaningful stories about telling the truth even when it's hard, being trustworthy with secrets, admitting when wrong, keeping promises, and understanding that honesty builds strong relationships",
           "ageRange": {
             "min": 5,
             "max": 14
@@ -485,8 +485,8 @@
           }
         },
         {
-          "theme": "2Fairness",
-          "description": "2Important tales about sharing equally, taking turns, following rules in games, standing up against injustice, treating everyone equally, and ensuring everyone gets a chance to participate",
+          "theme": "Fairness",
+          "description": "Important tales about sharing equally, taking turns, following rules in games, standing up against injustice, treating everyone equally, and ensuring everyone gets a chance to participate",
           "ageRange": {
             "min": 4,
             "max": 12
@@ -497,8 +497,8 @@
           }
         },
         {
-          "theme": "2Teamwork",
-          "description": "2Collaborative adventures showing how working together achieves more, valuing each person's strengths, communicating effectively, compromising for the group's benefit, and celebrating team victories",
+          "theme": "Teamwork",
+          "description": "Collaborative adventures showing how working together achieves more, valuing each person's strengths, communicating effectively, compromising for the group's benefit, and celebrating team victories",
           "ageRange": {
             "min": 5,
             "max": 14
@@ -509,8 +509,8 @@
           }
         },
         {
-          "theme": "2Hope",
-          "description": "2Uplifting stories about staying positive during tough times, believing in better days ahead, finding silver linings, encouraging others, and understanding that challenges are temporary",
+          "theme": "Hope",
+          "description": "Uplifting stories about staying positive during tough times, believing in better days ahead, finding silver linings, encouraging others, and understanding that challenges are temporary",
           "ageRange": {
             "min": 6,
             "max": 16
@@ -523,13 +523,13 @@
       ]
     },
     {
-      "category": "2Discovery & Learning",
-      "description": "2Stories that spark curiosity, imagination, and new ways of seeing the world.",
+      "category": "Discovery & Learning",
+      "description": "Stories that spark curiosity, imagination, and new ways of seeing the world.",
       "icon": "flask-purple",
       "themes": [
         {
-          "theme": "2Curiosityx",
-          "description": "2Exploratory tales encouraging questions about the world, investigating how things work, discovering new interests, learning through experimentation, and celebrating the joy of lifelong learning",
+          "theme": "Curiosity",
+          "description": "Exploratory tales encouraging questions about the world, investigating how things work, discovering new interests, learning through experimentation, and celebrating the joy of lifelong learning",
           "ageRange": {
             "min": 4,
             "max": 14
@@ -540,8 +540,8 @@
           }
         },
         {
-          "theme": "2Creativity",
-          "description": "2Imaginative stories about expressing ideas through art and play, thinking outside the box, solving problems creatively, inventing new games, and believing that there's no wrong way to create",
+          "theme": "Creativity",
+          "description": "Imaginative stories about expressing ideas through art and play, thinking outside the box, solving problems creatively, inventing new games, and believing that there's no wrong way to create",
           "ageRange": {
             "min": 3,
             "max": 12
@@ -552,8 +552,8 @@
           }
         },
         {
-          "theme": "2Self-Discovery",
-          "description": "2Personal journeys of understanding one's unique talents, embracing individuality, learning from experiences, building confidence, growing from challenges, and becoming the best version of oneself",
+          "theme": "Self-Discovery",
+          "description": "Personal journeys of understanding one's unique talents, embracing individuality, learning from experiences, building confidence, growing from challenges, and becoming the best version of oneself",
           "ageRange": {
             "min": 7,
             "max": 16
@@ -564,8 +564,8 @@
           }
         },
         {
-          "theme": "2Gratitude",
-          "description": "2Heartwarming stories about appreciating family and friends, being thankful for small joys, recognizing helpers in our lives, saying thank you, and finding happiness in what we have",
+          "theme": "Gratitude",
+          "description": "Heartwarming stories about appreciating family and friends, being thankful for small joys, recognizing helpers in our lives, saying thank you, and finding happiness in what we have",
           "ageRange": {
             "min": 4,
             "max": 12
@@ -576,8 +576,8 @@
           }
         },
         {
-          "theme": "2Hope",
-          "description": "2Uplifting stories about staying positive during tough times, believing in better days ahead, finding silver linings, encouraging others, and understanding that challenges are temporary",
+          "theme": "Hope",
+          "description": "Uplifting stories about staying positive during tough times, believing in better days ahead, finding silver linings, encouraging others, and understanding that challenges are temporary",
           "ageRange": {
             "min": 6,
             "max": 16
