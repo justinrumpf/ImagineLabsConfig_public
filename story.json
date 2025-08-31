@@ -648,126 +648,208 @@
   ],
   "locations": [
     {
-      "name": "4Mission: Spacex",
-      "imageUrl": "places/MissionSpace.png",
+      "name": "Mission: Space",
+      "imageUrl": "/uploads/file-1756638854600-490471469.png",
       "places": [
         {
-          "placeName": "4UAP Spaceship",
+          "placeName": "UAP Spaceship",
           "placeDescription": "A mysterious alien spacecraft with glowing panels, strange symbols, and advanced technology beyond human comprehension, floating silently through the cosmos"
         },
         {
-          "placeName": "4Alien Hive",
+          "placeName": "Alien Hive",
           "placeDescription": "A bustling extraterrestrial colony with hexagonal chambers, bioluminescent walls, and countless alien beings working in perfect harmony"
         },
         {
-          "placeName": "4Galactic School",
+          "placeName": "Galactic School",
           "placeDescription": "An orbiting academy with zero-gravity classrooms, holographic teachers, and windows showcasing breathtaking views of distant galaxies where future space heroes train"
         },
         {
-          "placeName": "4Moon Base 44",
+          "placeName": "Moon Base 44",
           "placeDescription": "A hidden lunar facility with domed structures, underground tunnels, and advanced research labs, permanently shrouded in darkness on the moon's far side"
         },
         {
-          "placeName": "4LV-312 Planet",
+          "placeName": "LV-312 Planet",
           "placeDescription": "An exotic exoplanet with purple skies, twin suns, and fascinating creatures that resemble Earth animals but with unique alien adaptations"
         },
         {
-          "placeName": "4Space Station",
+          "placeName": "Space Station",
           "placeDescription": "A massive orbital research facility with rotating modules, solar panels stretching like wings, and astronauts conducting groundbreaking experiments in microgravity"
         }
       ]
     },
     {
-      "name": "4The Age of Dinosaurs",
-      "imageUrl": "places/AgeOfDinosaurs.png",
+      "name": "The Age of Dinosaurs",
+      "imageUrl": "/uploads/file-1756638895572-795372367.png",
       "places": [
         {
-          "placeName": "4Lava Lands",
+          "placeName": "Lava Lands",
           "placeDescription": "A volcanic tropical paradise with steaming lava flows, lush jungle vegetation, and towering dinosaurs roaming among palm trees and black sand beaches"
         },
         {
-          "placeName": "4Raptor's Den",
+          "placeName": "Raptor's Den",
           "placeDescription": "A shadowy cave littered with ancient bones, sharp rock formations, and nests where fearsome flying reptiles raise their young amid prehistoric danger"
         },
         {
-          "placeName": "4Dinosaur Bay",
+          "placeName": "Dinosaur Bay",
           "placeDescription": "A pristine prehistoric coastline with crystal blue waters, perfect waves, and friendly cavemen riding wooden boards alongside playful marine dinosaurs"
         },
         {
-          "placeName": "4Giggle Grove",
+          "placeName": "Giggle Grove",
           "placeDescription": "A lively jungle clearing with stone amphitheater, prehistoric musical instruments, and young dinosaurs and cavemen sharing jokes and stories around glowing crystals"
         },
         {
-          "placeName": "4Happy Hatchery",
+          "placeName": "Happy Hatchery",
           "placeDescription": "A remarkable prehistoric ranch with massive nesting areas, incubation caves warmed by hot springs, and gentle cavemen caring for baby pterodactyls learning to fly"
         },
         {
-          "placeName": "4Rainbow Falls",
+          "placeName": "Rainbow Falls",
           "placeDescription": "A magnificent cascading waterfall creating perpetual rainbow mists, surrounded by flowering meadows where dinosaurs and cavemen live together in joyful harmony"
         }
       ]
     },
     {
-      "name": "4The Days of Miracles",
-      "imageUrl": "places/DaysOfMiracles.png",
+      "name": "The Days of Miracles",
+      "imageUrl": "/uploads/file-1756638921315-850923113.png",
       "places": [
         {
-          "placeName": "4Jerusalem",
+          "placeName": "Jerusalem",
           "placeDescription": "An ancient holy city with stone walls, bustling marketplaces filled with merchants and pilgrims, narrow cobblestone streets, and sacred temples rising toward the heavens"
         },
         {
-          "placeName": "4Bethlehem",
+          "placeName": "Bethlehem",
           "placeDescription": "A peaceful town with humble stone buildings, starlit skies, shepherds' fields dotted with sheep, and a sacred stable where miracles began"
         },
         {
-          "placeName": "4Jerihco",
+          "placeName": "Jerihco",
           "placeDescription": "An ancient walled city with towering palm trees, bustling with traders and travelers, where faith moved mountains and walls came tumbling down"
         },
         {
-          "placeName": "4Fisherman's Bay",
+          "placeName": "Fisherman's Bay",
           "placeDescription": "A tranquil bay with wooden fishing boats bobbing on crystal waters, nets drying in the sun, and fishermen sharing stories of miraculous catches"
         },
         {
-          "placeName": "4Golden Sand Dunes",
+          "placeName": "Golden Sand Dunes",
           "placeDescription": "Endless golden dunes stretching to the horizon, scorching sun by day and star-filled skies by night, where wanderers found faith and strength in the wilderness"
         },
         {
-          "placeName": "4Carpenters Workshop",
+          "placeName": "Carpenters Workshop",
           "placeDescription": "A humble workshop filled with sawdust and wood shavings, hand tools hanging on the walls, the scent of cedar and olive wood, where skilled hands create with love and purpose"
         }
       ]
     },
     {
-      "name": "4Today's Adventures",
-      "imageUrl": "places/TodaysAdventures.png",
+      "name": "Today's Adventures",
+      "imageUrl": "/uploads/file-1756638951264-891703243.png",
       "places": [
         {
-          "placeName": "4School",
+          "placeName": "School",
           "placeDescription": "A vibrant school with colorful classrooms, busy hallways filled with lockers and student artwork, playgrounds echoing with laughter, and libraries brimming with knowledge"
         },
         {
-          "placeName": "4Backyard Campout",
+          "placeName": "Backyard Campout",
           "placeDescription": "A cozy backyard transformed into an adventure zone with tents glowing under string lights, campfire crackling, marshmallows roasting, and friends sharing ghost stories under the stars"
         },
         {
-          "placeName": "4Big City Zoo",
+          "placeName": "Big City Zoo",
           "placeDescription": "A bustling city zoo with winding paths through exotic habitats, families watching playful monkeys, majestic lions basking in the sun, and colorful birds singing in tropical aviaries"
         },
         {
-          "placeName": "4The Mall",
+          "placeName": "The Mall",
           "placeDescription": "A bright modern shopping mall with glass skylights, escalators gliding between floors, stores displaying colorful treasures, food courts buzzing with families, and fountains dancing to music"
         },
         {
-          "placeName": "4Tree House",
+          "placeName": "Tree House",
           "placeDescription": "A magical treehouse nestled high in sturdy branches, with rope ladders, wooden platforms, secret compartments for treasures, and windows overlooking the neighborhood below"
         },
         {
-          "placeName": "4Outdoor Hike",
+          "placeName": "Outdoor Hike",
           "placeDescription": "A lush forest with winding trails through towering trees, sunbeams filtering through leaves, babbling brooks, wildlife peeking from bushes, and breathtaking mountain views at every turn"
         },
         {
           "placeName": "Custom:",
           "placeDescription": "Create your own unique location with any details you imagine - from underwater cities to cloud kingdoms, let your creativity soar"
+        }
+      ]
+    },
+    {
+      "name": "The Dragon's Age",
+      "imageUrl": "/uploads/file-1756639027561-99010008.png",
+      "places": [
+        {
+          "placeName": "Camelot",
+          "placeDescription": ""
+        },
+        {
+          "placeName": "Village Market",
+          "placeDescription": ""
+        },
+        {
+          "placeName": "Blacksmith's Forge",
+          "placeDescription": ""
+        },
+        {
+          "placeName": "Forest of Meh",
+          "placeDescription": ""
+        },
+        {
+          "placeName": "Pudding Moat",
+          "placeDescription": ""
+        },
+        {
+          "placeName": "The Bridge of Tricky Questions",
+          "placeDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "Cowboys & Outlaws",
+      "imageUrl": "/uploads/file-1756639134954-653958959.png",
+      "places": [
+        {
+          "placeName": "O.K. Corral",
+          "placeDescription": ""
+        },
+        {
+          "placeName": "Train Station",
+          "placeDescription": ""
+        },
+        {
+          "placeName": "Main Street Saloon",
+          "placeDescription": ""
+        },
+        {
+          "placeName": "Abandoned Mine",
+          "placeDescription": ""
+        },
+        {
+          "placeName": "Outlaw Hideout",
+          "placeDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "Magic Realms",
+      "imageUrl": "/uploads/file-1756639208302-491097899.png",
+      "places": [
+        {
+          "placeName": "Fairy World",
+          "placeDescription": ""
+        },
+        {
+          "placeName": "Wizard's Tower",
+          "placeDescription": ""
+        },
+        {
+          "placeName": "Mermaid Lagoon",
+          "placeDescription": ""
+        },
+        {
+          "placeName": "Crystal Castle",
+          "placeDescription": ""
+        },
+        {
+          "placeName": "Magic Kingdom",
+          "placeDescription": ""
         }
       ]
     }
