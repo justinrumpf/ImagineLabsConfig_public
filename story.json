@@ -592,57 +592,57 @@
   ],
   "storyType": [
     {
-      "type": "3Adventures",
-      "description": "3Epic quests with brave heroes exploring new lands, overcoming obstacles, discovering treasures, meeting interesting characters, and returning home with wisdom and exciting tales to share",
-      "imageUrl": "/uploads/file-1756119977728-27056690.png",
+      "type": "Adventures",
+      "description": "Epic quests with brave heroes exploring new lands, overcoming obstacles, discovering treasures, meeting interesting characters, and returning home with wisdom and exciting tales to share",
+      "imageUrl": "/uploads/file-1756637343903-85136498.png",
       "imageJustification": "left"
     },
     {
-      "type": "3Heros & Villians",
-      "description": "3Action-packed tales of good versus evil, superheroes with special powers protecting the innocent, clever heroes outsmarting villains, redemption stories, and the triumph of justice and kindness",
-      "imageUrl": "types/adventure.png",
+      "type": "Heros & Villians",
+      "description": "Action-packed tales of good versus evil, superheroes with special powers protecting the innocent, clever heroes outsmarting villains, redemption stories, and the triumph of justice and kindness",
+      "imageUrl": "/uploads/file-1756637357107-345666763.png",
       "imageJustification": "right"
     },
     {
-      "type": "3Sci-Fi & Futuristic",
-      "description": "3Futuristic adventures with space travel, friendly robots, amazing inventions, alien encounters, time machines, exploring other planets, and imagining how technology might change our world",
-      "imageUrl": "types/adventure.png",
+      "type": "Sci-Fi & Futuristic",
+      "description": "Futuristic adventures with space travel, friendly robots, amazing inventions, alien encounters, time machines, exploring other planets, and imagining how technology might change our world",
+      "imageUrl": "/uploads/file-1756637374093-219363506.png",
       "imageJustification": "left"
     },
     {
-      "type": "3Mystery",
-      "description": "3Intriguing puzzles and detective stories where young sleuths follow clues, solve riddles, uncover secrets, find missing items, catch harmless tricksters, and use logic to crack the case",
-      "imageUrl": "types/mystery.png",
+      "type": "Mystery",
+      "description": "Intriguing puzzles and detective stories where young sleuths follow clues, solve riddles, uncover secrets, find missing items, catch harmless tricksters, and use logic to crack the case",
+      "imageUrl": "/uploads/file-1756637384437-299589536.png",
       "imageJustification": "right"
     },
     {
-      "type": "3Educational",
-      "description": "3Fun learning adventures exploring science concepts, historical events, different cultures, nature facts, mathematical thinking, language play, and discovering how the world works through engaging narratives",
-      "imageUrl": "types/educational.png",
+      "type": "Educational",
+      "description": "Fun learning adventures exploring science concepts, historical events, different cultures, nature facts, mathematical thinking, language play, and discovering how the world works through engaging narratives",
+      "imageUrl": "/uploads/file-1756637394222-184999389.png",
       "imageJustification": "left"
     },
     {
-      "type": "3Silly & Funny",
-      "description": "3Hilarious tales filled with silly situations, funny misunderstandings, playful pranks, talking animals with comedic personalities, laugh-out-loud moments, and joy-filled adventures that tickle the funny bone",
-      "imageUrl": "types/adventure.png",
+      "type": "Comedy",
+      "description": "Hilarious tales filled with silly situations, funny misunderstandings, playful pranks, talking animals with comedic personalities, laugh-out-loud moments, and joy-filled adventures that tickle the funny bone",
+      "imageUrl": "/uploads/file-1756637404665-950313993.png",
       "imageJustification": "right"
     },
     {
-      "type": "3Fantasy",
-      "description": "3Magical worlds with wizards, dragons, enchanted forests, fairy godmothers, mystical creatures, spell-casting adventures, kingdoms in the clouds, and where imagination knows no bounds",
-      "imageUrl": "types/adventure.png",
+      "type": "Fantasy",
+      "description": "Magical worlds with wizards, dragons, enchanted forests, fairy godmothers, mystical creatures, spell-casting adventures, kingdoms in the clouds, and where imagination knows no bounds",
+      "imageUrl": "/uploads/file-1756637419211-699701242.png",
       "imageJustification": "left"
     },
     {
       "type": "Friendship",
-      "description": "3Heartwarming stories celebrating best friends, making new friends, friends helping each other through challenges, learning to understand differences, sharing adventures, and the special bond of true friendship",
-      "imageUrl": "types/adventure.png",
+      "description": "Heartwarming stories celebrating best friends, making new friends, friends helping each other through challenges, learning to understand differences, sharing adventures, and the special bond of true friendship",
+      "imageUrl": "/uploads/file-1756637425745-13627203.png",
       "imageJustification": "right"
     },
     {
-      "type": "3Spooky Stories",
+      "type": "Spooky Stories",
       "description": "3Mildly spooky tales with friendly ghosts, silly monsters, haunted houses with surprises, mysterious sounds that turn out funny, costume mix-ups, and Halloween adventures that are more fun than frightening",
-      "imageUrl": "img/greenmonster.png",
+      "imageUrl": "/uploads/file-1756637438223-570727245.png",
       "imageJustification": "left"
     }
   ],
