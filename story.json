@@ -914,7 +914,7 @@
     "backgrounds": {
       "description": "Background images used across various screens",
       "images": {
-        "main": "img/BG2.png"
+        "main": "/uploads/file-1759666871067-529210186.png"
       }
     },
     "uiElements": {
@@ -966,6 +966,12 @@
         "support": "img/support.png",
         "trash": "img/trash.png",
         "chevronRight": "img/chevron-right.png"
+      }
+    },
+    "general": {
+      "description": "General app assets like backgrounds",
+      "images": {
+        "appBackground": "/uploads/file-1759666506758-419478583.png"
       }
     }
   }
