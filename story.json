@@ -621,16 +621,6 @@
             "trash": "/img/trash.png",
             "chevronRight": "/img/chevron-right.png"
         }
-    },
-    
-    "themes": {
-        "description": "Theme category header images for lesson selection",
-        "images": {
-            "teamwork_honesty": "/img/teamwork_honesty.png",
-            "friendship_kindness": "/img/friendship_kindness.png",
-            "courage_adventure": "/img/courage_adventure.png",
-            "discovery_learning": "/img/discovery_learning.png"
-        }
     }
 }
 }
