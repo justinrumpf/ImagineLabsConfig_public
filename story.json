@@ -324,7 +324,7 @@
     {
         "category":"How we Treat Others",
         "description":"Stories about kindness, friendship, and caring for the people around us.",
-        "imagePath":"/img/themes/friendship_kindness.png",
+        "imagePath":"/img/friendship_kindness.png",
         "themes":[
             {"theme":"Friendship","description":""},
             {"theme":"Kindness","description":""},
@@ -337,7 +337,7 @@
     {
         "category":"Being Brave & Strong",
         "description":"Stories about facing fears, staying strong, and doing the right thing even when it's hard.",
-        "imagePath":"/img/themes/courage_adventure.png",
+        "imagePath":"/img/courage_adventure.png",
         "themes":[
             {"theme":"Bravery","description":""},
             {"theme":"Courage","description":""},
@@ -349,7 +349,7 @@
     {
         "category":"Teamwork & Honesty",
         "description":"Stories about honesty, fairness, and working together as a team.",
-        "imagePath":"/img/themes/teamwork_honesty.png",
+        "imagePath":"/img/teamwork_honesty.png",
         "themes":[
             {"theme":"Honesty","description":""},
             {"theme":"Fairness","description":""},
@@ -360,7 +360,7 @@
     {
         "category":"Discovery & Learning",
         "description":"Stories that spark curiosity, imagination, and new ways of seeing the world.",
-        "imagePath":"/img/themes/discovery_learning.png",
+        "imagePath":"/img/discovery_learning.png",
         "themes":[
             {"theme":"Curiosity","description":""},
             {"theme":"Creativity","description":""},
@@ -626,10 +626,10 @@
     "themes": {
         "description": "Theme category header images for lesson selection",
         "images": {
-            "teamwork_honesty": "/img/themes/teamwork_honesty.png",
-            "friendship_kindness": "/img/themes/friendship_kindness.png",
-            "courage_adventure": "/img/themes/courage_adventure.png",
-            "discovery_learning": "/img/themes/discovery_learning.png"
+            "teamwork_honesty": "/img/teamwork_honesty.png",
+            "friendship_kindness": "/img/friendship_kindness.png",
+            "courage_adventure": "/img/courage_adventure.png",
+            "discovery_learning": "/img/discovery_learning.png"
         }
     }
 }
