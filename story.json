@@ -13,10 +13,12 @@
     "home": {
         "welcomeMessage": "Welcome back, {name}!",
         "welcomeSubtext": "Ready to create magical stories?",
-        "createStoryButton": "Create Story",
+        "createStoryButton": "Create a Story",
         "charactersTitle": "Characters", 
         "libraryTitle": "Library",
         "viewAllButton": "View All",
+        "viewCharactersButton": "View Characters",
+        "viewStoriesButton": "View Stories",
         "alerts": {
             "noChildProfile": {
                 "title": "Create a Child Profile",
@@ -324,7 +326,7 @@
     {
         "category":"How we Treat Others",
         "description":"Stories about kindness, friendship, and caring for the people around us.",
-        "imagePath":"/img/friendship_kindness.png",
+        "imagePath":"/img/themes/friendship_kindness.png",
         "themes":[
             {"theme":"Friendship","description":""},
             {"theme":"Kindness","description":""},
@@ -337,7 +339,7 @@
     {
         "category":"Being Brave & Strong",
         "description":"Stories about facing fears, staying strong, and doing the right thing even when it's hard.",
-        "imagePath":"/img/courage_adventure.png",
+        "imagePath":"/img/themes/courage_adventure.png",
         "themes":[
             {"theme":"Bravery","description":""},
             {"theme":"Courage","description":""},
@@ -349,7 +351,7 @@
     {
         "category":"Teamwork & Honesty",
         "description":"Stories about honesty, fairness, and working together as a team.",
-        "imagePath":"/img/teamwork_honesty.png",
+        "imagePath":"/img/themes/teamwork_honesty.png",
         "themes":[
             {"theme":"Honesty","description":""},
             {"theme":"Fairness","description":""},
@@ -360,7 +362,7 @@
     {
         "category":"Discovery & Learning",
         "description":"Stories that spark curiosity, imagination, and new ways of seeing the world.",
-        "imagePath":"/img/discovery_learning.png",
+        "imagePath":"/img/themes/discovery_learning.png",
         "themes":[
             {"theme":"Curiosity","description":""},
             {"theme":"Creativity","description":""},
@@ -372,17 +374,52 @@
 ],
 "storyType":[
     {"type":"Adventures","description":"","imageUrl":"/img/types/adventure.png","imageJustification":"left"},
-    {"type":"Heros & Villians","description":"","imageUrl":"/img/types/adventure.png","imageJustification":"right"},
-    {"type":"Sci-Fi & Futuristic","description":"","imageUrl":"/img/types/adventure.png","imageJustification":"left"},
+    {"type":"Heros & Villians","description":"","imageUrl":"/img/types/HerosVillians.png","imageJustification":"right"},
+    {"type":"Sci-Fi & Futuristic","description":"","imageUrl":"/img/types/SciFi.png","imageJustification":"left"},
     {"type":"Mystery","description":"","imageUrl":"/img/types/mystery.png","imageJustification":"right"},
     {"type":"Educational","description":"","imageUrl":"/img/types/educational.png","imageJustification":"left"},
-    {"type":"Silly & Funny","description":"","imageUrl":"/img/types/adventure.png","imageJustification":"right"},
-    {"type":"Fantasy","description":"","imageUrl":"/img/types/adventure.png","imageJustification":"left"},
-    {"type":"Friendship","description":"","imageUrl":"/img/types/adventure.png","imageJustification":"right"},
-    {"type":"Spooky Stories","description":"","imageUrl":"/img/greenmonster.png","imageJustification":"left"}
+    {"type":"Silly & Funny","description":"","imageUrl":"/img/types/Comedy.png","imageJustification":"right"},
+    {"type":"Fantasy","description":"","imageUrl":"/img/types/Fantasy.png","imageJustification":"left"},
+    {"type":"Friendship","description":"","imageUrl":"/img/types/friendship.png","imageJustification":"right"},
+    {"type":"Spooky Stories","description":"","imageUrl":"/img/types/Spooky.png","imageJustification":"left"}
 ],
 "locations":
 [
+    {
+    "name":"Today's Adventures",
+    "imageUrl":"/img/TodaysAdventures.png",
+    "places":[
+        {
+            "placeName":"School",
+            "placeDescription":"A modern day school"
+        },
+        {
+            "placeName":"Backyard Campout",
+            "placeDescription":"A campout in a nighborhood backyard with friends."
+        },
+                {
+            "placeName":"Big City Zoo",
+            "placeDescription":"A zoo in a big city with crowds of people admiring the animals."
+        },
+                {
+            "placeName":"The Mall",
+            "placeDescription":"A local modern mall with people and shops. "
+        },
+                {
+            "placeName":"Tree House",
+            "placeDescription":"A tree house in a backyard of a house in a neighborhood"
+        },
+                {
+            "placeName":"Outdoor Hike",
+            "placeDescription":"A firest with hiking trails and beautiful scenery."
+        },
+                {
+            "placeName":"Custom:",
+            "placeDescription":"Enter your own custom location"
+        }
+
+    ]
+},
 {
     "name":"Mission: Space",
     "imageUrl":"/img/MissionSpace.png",
@@ -478,42 +515,34 @@
 
     ]
 },
-
 {
-    "name":"Today's Adventures",
-    "imageUrl":"/img/TodaysAdventures.png",
+    "name":"Magic Realms",
+    "imageUrl":"/img/MagicRealms.png",
     "places":[
         {
-            "placeName":"School",
-            "placeDescription":"A modern day school"
+            "placeName":"Fairy World",
+            "placeDescription":"A world of fairy's magic and wonder."
         },
         {
-            "placeName":"Backyard Campout",
-            "placeDescription":"A campout in a nighborhood backyard with friends."
+            "placeName":"Wizards Tower",
+            "placeDescription":"A tower where a very smart wizard lives and performs magic"
         },
                 {
-            "placeName":"Big City Zoo",
-            "placeDescription":"A zoo in a big city with crowds of people admiring the animals."
+            "placeName":"Mermaid Lagoon",
+            "placeDescription":"A tropical lagoon full of mermaids and magic"
         },
                 {
-            "placeName":"The Mall",
-            "placeDescription":"A local modern mall with people and shops. "
+            "placeName":"Crystal Castle",
+            "placeDescription":"A magical castle in a fairy land where amazing things can happen."
         },
                 {
-            "placeName":"Tree House",
-            "placeDescription":"A tree house in a backyard of a house in a neighborhood"
-        },
-                {
-            "placeName":"Outdoor Hike",
-            "placeDescription":"A firest with hiking trails and beautiful scenery."
-        },
-                {
-            "placeName":"Custom:",
-            "placeDescription":"Enter your own custom location"
+            "placeName":"Magical Kingdom",
+            "placeDescription":"A place where all your dreams come true!"
         }
 
     ]
-}
+},
+
 
 
 
@@ -533,6 +562,7 @@
             "AvatarBoy7": "/avatars/AvatarBoy7.png",
             "AvatarBoy8": "/avatars/AvatarBoy8.png",
             "AvatarBoy9": "/avatars/AvatarBoy9.png",
+            "AvatarBoy10": "/avatars/AvatarBoy10.png",
             "AvatarGirl1": "/avatars/AvatarGirl1.png",
             "AvatarGirl2": "/avatars/AvatarGirl2.png",
             "AvatarGirl3": "/avatars/AvatarGirl3.png",
@@ -546,7 +576,8 @@
             "AvatarGirl11": "/avatars/AvatarGirl11.png",
             "AvatarGirl12": "/avatars/AvatarGirl12.png",
             "AvatarGirl13": "/avatars/AvatarGirl13.png",
-            "AvatarGirl14": "/avatars/AvatarGirl14.png"
+            "AvatarGirl14": "/avatars/AvatarGirl14.png",
+            "AvatarGirl15": "/avatars/AvatarGirl15.png"
         }
     },
     
@@ -554,7 +585,7 @@
         "description": "Background images used across various screens",
         "images": {
             "main": "/img/Background.png",
-            "storySettings": "/img/screens/BG.png"
+            "storySettings": "/img/screens/Background.png"
         }
     },
     
